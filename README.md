@@ -1,4 +1,5 @@
 CLI Cafe Ordering System ☕
+
 I built this project to explore how a simple terminal interface can handle the real-world logic of a busy cafe. Instead of just writing code, I wanted to focus on the user’s flow—from browsing a dynamic menu to receiving a clean, itemized receipt.
 
 Why I Created This
